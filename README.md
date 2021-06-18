@@ -1,6 +1,4 @@
-# Network
-
-##Create a Simple Network Using Packet Tracer 
+# Create a Simple Network Using Packet Tracer 
 
 **Part 1: Build a Simple Network in the Logical Topology Workspace**
 
